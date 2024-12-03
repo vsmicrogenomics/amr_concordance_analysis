@@ -1,0 +1,101 @@
+Phenotypic Carbapenem susceptibility,Phenotypic Colistin susceptibility,Carbapenem Resistance Genes,Gene Mutation
+S,R,-,pmrB_E123D
+R,I,NDM-1,pmrB_E123D
+R,I,NDM-1,pmrB_Y358N
+R,S,KPC-2,pmrB_E123D
+S,R,KPC-2,pmrB_Y358N
+S,S,KPC-2,pmrB_E123D
+S,R,NDM-1,pmrA_P34L
+R,S,KPC-2,pmrB_E123D
+R,S,-,-
+R,I,NDM-1,-
+R,I,KPC-2,pmrA_P34L
+S,R,-,pmrB_E123D
+R,S,KPC-2,-
+R,R,NDM-5 & ompF_Q88STOP,-
+S,I,KPC-2,pmrB_E123D
+S,I,NDM-5 & ompF_Q88STOP,pmrB_Y358N
+R,R,KPC-2,pmrB_E123D
+S,S,KPC-3,pmrB_Y358N
+S,S,KPC-2,pmrA_P34L
+R,R,NDM-1,pmrA_P34L
+S,I,NDM-1,-
+S,S,NDM-5 & ompF_Q88STOP,-
+R,I,NDM-1,-
+R,S,-,pmrB_Y358N
+S,R,KPC-3,-
+R,R,KPC-3,pmrB_E123D
+R,R,-,pmrB_Y358N
+R,I,NDM-5 & ompF_Q88STOP,pmrA_P34L
+S,I,-,pmrB_Y358N
+S,I,-,-
+S,R,KPC-3,pmrB_E123D
+S,R,KPC-2,pmrB_E123D
+S,I,KPC-3,-
+S,I,KPC-3,pmrB_E123D
+R,R,NDM-1,pmrB_Y358N
+S,S,-,pmrB_Y358N
+S,R,KPC-3,-
+S,I,-,pmrB_E123D
+S,I,NDM-1,pmrA_P34L
+S,R,-,pmrB_Y358N
+S,S,KPC-3,pmrB_Y358N
+R,S,-,pmrB_Y358N
+R,R,NDM-1,pmrB_Y358N
+R,I,KPC-2,pmrA_P34L
+R,S,-,-
+R,R,KPC-3,pmrB_Y358N
+R,S,NDM-1,pmrB_E123D
+R,I,KPC-3,pmrA_P34L
+S,R,KPC-3,pmrB_Y358N
+R,R,-,pmrB_E123D
+R,I,KPC-3,pmrB_Y358N
+R,S,-,-
+R,S,KPC-2,pmrA_P34L
+S,S,KPC-3,-
+S,R,KPC-3,pmrA_P34L
+S,R,KPC-3,pmrB_Y358N
+R,S,NDM-5 & ompF_Q88STOP,pmrB_Y358N
+S,S,NDM-5 & ompF_Q88STOP,pmrA_P34L
+R,R,NDM-1,pmrB_E123D
+R,R,NDM-5 & ompF_Q88STOP,pmrB_E123D
+S,R,NDM-1,pmrB_Y358N
+S,S,NDM-5 & ompF_Q88STOP,pmrB_Y358N
+S,R,KPC-2,-
+S,I,NDM-1,pmrB_Y358N
+S,I,NDM-5 & ompF_Q88STOP,pmrA_P34L
+S,R,KPC-2,pmrB_E123D
+R,R,NDM-5 & ompF_Q88STOP,pmrB_E123D
+R,I,-,-
+R,R,-,pmrB_E123D
+R,R,KPC-2,pmrB_E123D
+R,I,KPC-3,pmrA_P34L
+S,S,KPC-3,pmrB_E123D
+S,S,-,-
+R,I,-,-
+S,I,KPC-3,pmrB_E123D
+R,R,NDM-1,pmrB_Y358N
+S,R,KPC-3,pmrB_E123D
+R,S,NDM-5 & ompF_Q88STOP,-
+R,S,NDM-1,-
+R,S,NDM-5 & ompF_Q88STOP,pmrA_P34L
+S,I,-,pmrB_E123D
+R,I,NDM-1,pmrB_E123D
+S,I,NDM-5 & ompF_Q88STOP,pmrA_P34L
+S,R,NDM-5 & ompF_Q88STOP,-
+R,S,NDM-1,pmrA_P34L
+R,S,KPC-2,pmrB_Y358N
+S,I,KPC-3,pmrB_E123D
+S,R,NDM-5 & ompF_Q88STOP,-
+R,R,KPC-3,pmrA_P34L
+R,S,KPC-3,-
+R,S,-,pmrB_Y358N
+S,R,KPC-3,pmrB_E123D
+S,R,NDM-5 & ompF_Q88STOP,pmrA_P34L
+R,I,-,-
+R,S,NDM-1,pmrB_E123D
+R,I,NDM-5 & ompF_Q88STOP,pmrB_E123D
+S,S,-,-
+S,R,-,pmrB_E123D
+S,I,KPC-3,pmrB_E123D
+S,I,NDM-1,pmrA_P34L
